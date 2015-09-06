@@ -1,0 +1,18 @@
+# Site settings
+title: Women in Humanities, Preservation, and Emerging Media
+email: wihpem@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Women in Humanities, Preservation, and Emerging Media
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://wihpem.com" # the base hostname & protocol for your site
+twitter_username: wihpem
+github_username:  wihpem
+
+# Build settings
+markdown: kramdown
+
+collections:
+  bios:
+    output: true
+  about:
+    output: true
